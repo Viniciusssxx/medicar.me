@@ -1,0 +1,9 @@
+{
+  "name": "Lembre dos Remédios",
+  "description": "Aplicativo de lembrete de medicamentos focado na acessibilidade para idosos e controle para cuidadores.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
